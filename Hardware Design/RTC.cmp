@@ -1,0 +1,108 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 7/23/2016 12:18:20 PM
+
+BeginCmp
+TimeStamp = /4FD5EC2E;
+Reference = 3,3V1;
+ValeurCmp = BATTERY;
+IdModule  = EE:RTC_Battery_Holder;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FD5EC30;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FD5EC2F;
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CF0583;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = EE:LED-1206_NEW;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FD66D60;
+Reference = K1;
+ValeurCmp = I2C;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FD66D58;
+Reference = P1;
+ValeurCmp = PWR;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /57907AB1;
+Reference = P2;
+ValeurCmp = CONN_01X01;
+IdModule  = Logo_new:Logo_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CEB81F;
+Reference = P3;
+ValeurCmp = CONN_01X01;
+IdModule  = EE:M3_mounting;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CEB91F;
+Reference = P5;
+ValeurCmp = CONN_01X01;
+IdModule  = EE:M3_mounting;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FD5EC33;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FD5EC32;
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CF06FC;
+Reference = R3;
+ValeurCmp = 470r;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FD5EC2C;
+Reference = U1;
+ValeurCmp = DS1307;
+IdModule  = Housings_DIP:DIP-8_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A550B9;
+Reference = U2;
+ValeurCmp = 24C16;
+IdModule  = Housings_DIP:DIP-8_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CEADB5;
+Reference = X1;
+ValeurCmp = CRYSTAL_SMD;
+IdModule  = EE:RTC_Crystal_1;
+EndCmp
+
+EndListe
